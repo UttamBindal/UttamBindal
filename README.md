@@ -3,13 +3,12 @@
 <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=UttamBindal.UttamBindal&"  /></p>
 
 ###
-
+<p align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" /></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UttamBindal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UttamBindal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -33,16 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-
-
-###
-
-
-###
 
 <br clear="both">
 
@@ -53,10 +43,9 @@
   <a href="https://www.linkedin.com/in/uttam-bindal-b31906228/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/UttamBindal/UttamBindal/output/snake.svg" alt="Snake animation" />
 
-###
+
