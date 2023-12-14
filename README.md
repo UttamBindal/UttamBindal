@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Uttam Bindal and I'm a Backend Developer, from India</h2>
+<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="600">
+<h2 align="center">Hi 👋! My name is Uttam Bindal</h2>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=UttamBindal.UttamBindal&"  />
 
 ###
 
@@ -9,7 +11,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -35,11 +37,10 @@
 
 <br clear="both">
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=UttamBindal.UttamBindal&"  />
+
 
 ###
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 
 ###
 
